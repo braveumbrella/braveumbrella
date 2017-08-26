@@ -123,6 +123,7 @@ opacity: 1;
 	padding:10px;
 	margin:50px;
 	opacity: 0;
+	width: 80%;
 	-webkit-animation-name: main_fadein;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-fill-mode: forwards;
