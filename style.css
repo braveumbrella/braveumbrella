@@ -114,8 +114,8 @@ opacity: 1;
 	background-color:rgba(49,100,100,0.3);
 	font-color:white;
 	float:right;
-	height: 1800px;
 	position:absolute;
+	height:1200px;
 	top:12.5em;
 	right:0;
 	bottom:0;
@@ -123,7 +123,6 @@ opacity: 1;
 	padding:10px;
 	margin:50px;
 	opacity: 0;
-	width: 80%;
 	-webkit-animation-name: main_fadein;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-fill-mode: forwards;
@@ -140,7 +139,7 @@ opacity: 1;
 @keyframes main_fadein{
 	from{opacity: 0;}
 	to{opacity: 100;}
-} 
+}
 	
 
 .main_archives{
