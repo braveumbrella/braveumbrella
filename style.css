@@ -634,3 +634,12 @@ footer{
 .icons:hover{
 	opacity: .3;
 }
+
+.gofund {
+	width:5%;
+	height:25px;
+}
+
+.gofund:hover{
+	opacity: .3;
+}
