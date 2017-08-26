@@ -593,8 +593,8 @@ margin-left: 15%;
 	width:50%;
 	height:100%;
 	position: absolute;
-	top:100%;
-	left:50%;
+	top:auto;
+	left:auto;
 }
 
 .f_index{
