@@ -52,7 +52,7 @@ opacity: 1;
 	margin: -37% -130% 0 0;
 }
 
-.index_logo {
+./*index_logo {
 	float:right;
 	height:65%;
 	width:65%;
@@ -107,7 +107,7 @@ opacity: 1;
 	from{opacity: 0;}
 	to{opacity: 100;}
 }
-
+*/
 
 /*Main Divs*/
 .main_about{
@@ -587,6 +587,11 @@ margin-left: 15%;
 .contact_headshots{
 	display:block;
 	width:10%;
+}
+
+.poster{
+	width:50%;
+	height:50%;
 }
 
 .f_index{
