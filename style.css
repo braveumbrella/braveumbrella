@@ -597,11 +597,9 @@ margin-left: 15%;
 }
 
 .f_index{
-	position: absolute;
-	top:140%;
+	width:80%;
 	float:right;
-	padding: 5px;
-	left:25%;
+	padding: 60px 0px;
 }
 
 .f_1{
