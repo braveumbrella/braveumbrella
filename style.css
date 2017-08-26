@@ -592,8 +592,8 @@ margin-left: 15%;
 .poster{
 	width:10%;
 	position:absolute;
-	left:20%;
-	top:10%;
+	left:20em;
+	top:10em;
 }
 
 .f_index{
