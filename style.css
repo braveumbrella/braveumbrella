@@ -591,10 +591,10 @@ margin-left: 15%;
 
 .poster{
 	width:50%;
-	height:75%;
+	height:auto;
 	position: absolute;
 	top:50%;
-	left:25%;
+	left:75%;
 }
 
 .f_index{
