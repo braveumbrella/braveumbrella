@@ -591,9 +591,10 @@ margin-left: 15%;
 
 .poster{
 	width:50%;
-	height:50%;
+	height:inherit;
 	position: absolute;
 	top:50%;
+	right:50%;
 }
 
 .f_index{
