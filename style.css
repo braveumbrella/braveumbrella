@@ -110,69 +110,6 @@ opacity: 1;
 */
 
 /*Main Divs*/
-/*.main_aboutus{
-	background-color:rgba(49,100,100,0.3);
-	font-color:white;
-	float:right;
-	position:absolute;
-	height:1200px;
-	top:12.5em;
-	right:0;
-	bottom:0;
-	left:20%;
-	padding:10px;
-	margin:50px;
-	opacity: 0;
-	-webkit-animation-name: main_fadein;
-	-webkit-animation-duration: 3s;
-	-webkit-animation-fill-mode: forwards;
-	animation-name: main_fadein;
-	animation-duration: 3s;
-	animation-fill-mode:forwards;
-}
-
-@-webkit-keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
-@keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}*/
-main{
-	background-color:rgba(49,100,100,0.3);
-	font-color:white;
-	float:right;
-	display: flex;
-  	flex-direction: column;
-  	min-height: 50vh;
-	position:absolute;
-	top:12.5em;
-	right:0;
-	bottom:0;
-	left:20%;
-	padding:10px;
-	margin:50px;
-	opacity: 0;
-	-webkit-animation-name: main_fadein;
-	-webkit-animation-duration: 3s;
-	-webkit-animation-fill-mode: forwards;
-	animation-name: main_fadein;
-	animation-duration: 3s;
-	animation-fill-mode:forwards;
-}
-
-@-webkit-keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
-@keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
 .main_archives{
 	background-color:rgba(49,100,100,0.3);
 	font-color:white;
@@ -337,6 +274,37 @@ main{
 	float:right;
 	position:absolute;
 	height:1800px;
+	top:12.5em;
+	right:0;
+	bottom:0;
+	left:20%;
+	padding:10px;
+	margin:50px;
+	opacity: 0;
+	-webkit-animation-name: main_fadein;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-fill-mode: forwards;
+	animation-name: main_fadein;
+	animation-duration: 3s;
+	animation-fill-mode:forwards;
+}
+
+@-webkit-keyframes main_fadein{
+	from{opacity: 0;}
+	to{opacity: 100;}
+}
+
+@keyframes main_fadein{
+	from{opacity: 0;}
+	to{opacity: 100;}
+}
+
+.main_support1{
+	background-color:rgba(49,100,100,0.3);
+	font-color:white;
+	float:right;
+	position:absolute;
+	height:500px;
 	top:12.5em;
 	right:0;
 	bottom:0;
