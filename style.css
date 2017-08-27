@@ -140,12 +140,14 @@ opacity: 1;
 	from{opacity: 0;}
 	to{opacity: 100;}
 }*/
-.main_bios{
+main{
 	background-color:rgba(49,100,100,0.3);
 	font-color:white;
 	float:right;
+	display: flex;
+  	flex-direction: column;
+  	min-height: 50vh;
 	position:absolute;
-	height:500px;
 	top:12.5em;
 	right:0;
 	bottom:0;
