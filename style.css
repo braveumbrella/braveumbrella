@@ -140,7 +140,7 @@ opacity: 1;
 	from{opacity: 0;}
 	to{opacity: 100;}
 }*/
-main_aboutus{
+.main_bios{
 	background-color:rgba(49,100,100,0.3);
 	font-color:white;
 	float:right;
