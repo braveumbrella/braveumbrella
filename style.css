@@ -336,7 +336,8 @@ main{
 	font-color:white;
 	float:right;
 	position:absolute;
-	height:500px;
+	min-height:500px;
+	overflow:hidden;
 	top:12.5em;
 	right:0;
 	bottom:0;
