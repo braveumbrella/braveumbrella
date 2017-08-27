@@ -337,7 +337,9 @@ main{
 	float:right;
 	position:absolute;
 	min-height:500px;
-	max-height:1200px;
+	overflow: auto;
+    	overflow-x: hidden;
+    	overflow-y: hidden;
 	top:12.5em;
 	right:0;
 	bottom:0;
