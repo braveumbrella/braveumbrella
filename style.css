@@ -481,12 +481,6 @@ margin-left: 15%;
 
 	
 /*Main style*/	
-
-h1{
-color:rgb(200,200,200);
-text-align:center;
-}
-
 .title{
 	font-weight:bold;
 	font-size:18pt;
@@ -607,6 +601,7 @@ text-align:center;
 	position:relative;
 	left:0px;
 	bottom:0px;
+	margin:auto;
 }
 /*Footer*/
 footer{
