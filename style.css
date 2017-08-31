@@ -216,15 +216,23 @@ opacity: 1;
 	padding:10px;
 	margin:50px;
 	opacity: 0;
-	-webkit-animation-name: main_index_fadein;
+	-webkit-animation-name: main_fadein;
 	-webkit-animation-duration: 3s;
 	-webkit-animation-fill-mode: forwards;
-	-webkit-animation-delay: 1.5s;
-	animation-name: main_index_fadein;
+	animation-name: main_fadein;
 	animation-duration: 3s;
-	animation-delay:1.5s;
 	animation-fill-mode:forwards;
 }
+
+@-webkit-keyframes main_fadein{
+	from{opacity: 0;}
+	to{opacity: 100;}
+}
+
+@keyframes main_fadein{
+	from{opacity: 0;}
+	to{opacity: 100;}
+} 
 
 @-webkit-keyframes main_index_fadein{
 	from{opacity: 0;}
