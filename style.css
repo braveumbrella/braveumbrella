@@ -419,16 +419,15 @@ opacity: 1;
 .nav_index a.current{
 	color:rgb(145,16,28);
 	font-size: 150%;
-	}
+}
 	
 .nav_index a{
 display:block;
 list-style-type:none;
 text-decoration:none;
-margin:0;
 font-size:30px;
 margin-bottom:8px;
-margin-left: 15%;
+margin-left: 1%;
 }
 
 /*Nav for pages minus index*/
@@ -465,7 +464,7 @@ margin-left: 15%;
 .nav a.current{
 	color:rgb(145,16,28);
 	font-size: 150%;
-	}
+}
 
 .nav a{
 display:block;
