@@ -506,7 +506,7 @@ margin-left: 15%;
 }
 
 main.index .subtitle{
-	margin-top: 700px;
+	position:relative;
 }
 	
 .myslides{
