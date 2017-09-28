@@ -506,8 +506,8 @@ margin-left: 15%;
 }
 	
 .myslides{
-	height:1000px;
-	width:1000px;
+	height:800px;
+	width:800px;
 	position:absolute;
 	top:0%;
 	right:0%;
@@ -518,7 +518,7 @@ margin-left: 15%;
 }
 
 .slideshow{
-	max-width:1200px;
+	max-width:800px;
 	margin:0;
 }
 
