@@ -52,63 +52,6 @@ opacity: 1;
 	margin: -37% -130% 0 0;
 }
 
-./*index_logo {
-	float:right;
-	height:65%;
-	width:65%;
-	padding:20px;
-	margin: 2px;
-	position:absolute;
-	left:20%;
-	bottom:25%;
-	opacity: 0;
-	-webkit-animation-name: main_fadein;
-	-webkit-animation-duration: 3s;
-	-webkit-animation-fill-mode: forwards;
-	animation-name: main_fadein;
-	animation-duration: 3s;
-	animation-fill-mode:forwards;
-}
-
-@-webkit-keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
-@keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
-.index_logo_text {
-	float:right;
-	height:30%;
-	width:60%;
-	padding:0px;
-	margin:2px;
-	position:absolute;
-	left:23%;
-	top:70%;
-	opacity: 0;
-	-webkit-animation-name: main_fadein;
-	-webkit-animation-duration: 3s;
-	-webkit-animation-fill-mode: forwards;
-	animation-name: main_fadein;
-	animation-duration: 3s;
-	animation-fill-mode:forwards;
-}
-
-@-webkit-keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-
-@keyframes main_fadein{
-	from{opacity: 0;}
-	to{opacity: 100;}
-}
-*/
-
 /*Main Divs*/
 .main_archives{
 	background-color:rgba(49,100,100,0.3);
