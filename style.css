@@ -504,6 +504,10 @@ margin-left: 15%;
 .subtitle a:hover{
 	opacity: 0.5;
 }
+
+main.index .subtitle{
+	margin-top: 700px;
+}
 	
 .myslides{
 	height:600px;
