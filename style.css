@@ -506,8 +506,7 @@ margin-left: 15%;
 }
 	
 .myslides{
-	width:90%;
-	height:95%;
+	width:auto;
 	float:right;
 	position:absolute;
 	top:0%;
