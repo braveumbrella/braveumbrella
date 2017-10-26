@@ -570,3 +570,9 @@ th, td {
     padding-left:20px;
     padding-right:20px;
 }
+
+table{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
