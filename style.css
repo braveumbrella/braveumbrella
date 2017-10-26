@@ -476,6 +476,10 @@ margin-left: 15%;
 	margin:0;
 	color:rgb(150,150,150);	
 }
+.text_indent a{
+	color:rgb(150,150,150);
+	text-decoration:none;
+	margin:0;
 .text{
 	font-size:15pt;
 	margin:0;
