@@ -507,6 +507,12 @@ margin-left: 15%;
 	opacity: 0.7;
 }
 
+.text a .link{
+	color:rgb(150,150,150);
+	text-decoration:none;
+	margin:0;
+}
+
 #center{
 	text-align:center;
 }
