@@ -513,6 +513,12 @@ margin-left: 15%;
 	margin:0;
 }
 
+.text a .link:hover{
+	color:rgb(150,150,150);
+	text-decoration:none;
+	margin:0;
+}
+
 #center{
 	text-align:center;
 }
