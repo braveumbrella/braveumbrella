@@ -597,3 +597,19 @@ display:block;
 margin-left:auto;
 margin-right:auto;
 }
+
+.hred{
+	font-size:50pt;
+	margin:0;
+	color:rgb(145,16,28);	
+}
+.hgray{
+	font-size:50pt;
+	margin:0;
+	color:rgb(96,96,77);	
+}
+.hwhite{
+	font-size:40pt;
+	margin:0;
+	color:rgb(150,150,150);	
+}
