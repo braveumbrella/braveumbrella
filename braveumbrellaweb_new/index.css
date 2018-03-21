@@ -170,7 +170,7 @@ nav{
 }
 @media screen and (max-width: 600px) {
 	.icons{
-		width:4vw;
+		width:6vw;
 		}
 }
 
@@ -179,7 +179,7 @@ nav{
 }
 .ftext{
 	color: rgb(255,255,255);
-	font-family: 'Cardo'
+	font-family: 'Cardo';
 	font-size:15pt;
 	
 }
