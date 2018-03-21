@@ -38,7 +38,8 @@ body{
 
 #mission{
 	text-align:center;
-	margin:0;
+	margin-right:auto;
+	margin-left:auto;
 }
 #mission li{
 	font-size:15pt;
