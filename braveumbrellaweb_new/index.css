@@ -31,6 +31,7 @@ body{
 .col-lg-6{
 	width:50%;
 	margin:auto;
+	background-color:white;
 }
 .logo{
     display: block;
