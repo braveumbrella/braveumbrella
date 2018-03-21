@@ -37,6 +37,7 @@ body{
 	font-size:15pt;
 	margin:0;
 	color:rgb(137,125,114);
+	list-style:circle;
 }
 
 /*Extra Large Devices*/
