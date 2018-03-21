@@ -283,13 +283,20 @@ nav{
 	float:left;
 	padding:10px 15px 0 0;
 }
-
-.headshots_contact{
-	width:10%;
-	height:auto;
-	float:left;
-	padding:0 15px 20px 0;
-}
+@media screen and (min-width: 600px) {
+	.headshots_contact{
+		width:10%;
+		height:auto;
+		float:left;
+		padding:0 15px 20px 0;
+	}
+@media screen and (max-width: 600px) {
+	.headshots_contact{
+		width:20%;
+		height:auto;
+		float:left;
+		padding:0 15px 20px 0;
+	}
 
 .dbutton{
 	width:20vw;
