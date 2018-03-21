@@ -48,42 +48,8 @@ body{
 	text-align:center;
 }
 
-.hred{
-	font-size:10vw;
-	color:rgb(146,16,28);
-	padding:0;
-	margin:10% 0 0 0;
-	line-height:12vw;
-}
-.hgray{
-	font-size:10vw;
-	color:rgb(137,125,114);
-	padding:0;
-	margin:0;
-	line-height:12vw;
-	
-}
-.hwhite{
-	font-size:8vw;
-	color:rgb(255,255,255);
-	padding:0;
-	margin:0;
-	line-height:11vw;
-}
-
-.col-lg-6{
-	width:80%;
-	margin:auto;
-}
-.logo{
-    display: block;
-    margin:0 auto 0 auto;
-    width: 80%;
-
-}
-
 /*Extra Large Devices*/
-/*@media only screen and (min-device-width:991px){
+@media only screen and (min-device-width:991px){
 	.hred{
 		font-size:5vw;
 		color:rgb(146,16,28);
@@ -111,11 +77,11 @@ body{
 		height:auto;
 		margin:0 0 0 10vw;
 	}
-}*/
+}
 
 
 /*Large Devices*/
-/*@media only screen and (max-width:990px){
+@media only screen and (max-width:990px){
 	.hred{
 		font-size:5vw;
 		color:rgb(146,16,28);
@@ -143,10 +109,10 @@ body{
 		height:auto;
 		margin:-15vw 0 0 36vw;
 	}
-}*/
+}
 
 /*Medium Devices*/
-/*@media only screen and (min-device-width:760px, max-device-width:989){
+@media only screen and (min-device-width:760px, max-device-width:989){
 	.hred{
 		font-size:5vw;
 		color:rgb(146,16,28);
@@ -174,38 +140,44 @@ body{
 		height:auto;
 		margin:3vw 0 0 12vw;
 	}
-}*/
+}
 
 /*Small Devices*/
-/*@media only screen and (max-width:759px){
+@media only screen and (max-width:759px){
 	.hred{
-		font-size:5vw;
+		font-size:10vw;
 		color:rgb(146,16,28);
 		padding:0;
-		margin:5vw 5vw 0 0;
-		line-height:0vw;
+		margin:10% 0 0 0;
+		line-height:12vw;
 	}
 	.hgray{
-		font-size:5vw;
+		font-size:10vw;
 		color:rgb(137,125,114);
 		padding:0;
-		margin:0 0 0 20vw;
-		line-height:0vw;
-
+		margin:0;
+		line-height:12vw;
+	
 	}
 	.hwhite{
-		font-size:4vw;
+		font-size:8vw;
 		color:rgb(255,255,255);
 		padding:0;
-		margin:0 0 0 51vw;
-		line-height:0vw;
-		}	
-		.logo{
-			width:30vw;
-			height:auto;
-			margin:3vw 25% 0 25%;
-		}
-}*/
+		margin:0;
+		line-height:11vw;
+	}
+
+	.col-lg-6{
+		width:80%;
+		margin:auto;
+	}
+	.logo{
+   		 display: block;
+    		margin:0 auto 0 auto;
+    		width: 50%;
+
+	}
+}
 
 /*nav*/
 
