@@ -302,6 +302,18 @@ nav{
 .dbutton{
 	width:20vw;
 }
+
+@media screen and (min-width: 600px) {
+	.icons{
+		width:3vw;
+	}
+}
+@media screen and (max-width: 600px) {
+	.icons{
+		width:6vw;
+		}
+}
+
 #footer{
 	margin:auto;
 }
