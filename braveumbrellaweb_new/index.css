@@ -28,6 +28,12 @@ body{
 	line-height:11vw;
 }
 
+.logo{
+	margin-right:auto;
+	margin-left:auto;
+	
+}	
+
 .title{
 	font-weight:bold;
 	font-size:20pt;
