@@ -34,7 +34,7 @@ body{
 }
 .logo{
     display: block;
-    margin:0 auto -5vw auto;
+    margin:0 auto 0 auto;
     width: 80%;
 
 }
