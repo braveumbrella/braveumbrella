@@ -28,9 +28,16 @@ body{
 	line-height:11vw;
 }
 
+.col-lg-6{
+	width:50%;
+	margin:auto;
+}
 .logo{
-	align:center;	
-}	
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 .title{
 	font-weight:bold;
