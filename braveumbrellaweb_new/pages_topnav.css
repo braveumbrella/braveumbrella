@@ -302,3 +302,13 @@ nav{
 .dbutton{
 	width:20vw;
 }
+#footer{
+	margin:auto;
+}
+.ftext{
+	color: rgb(255,255,255);
+	font-family: 'Cardo';
+	font-size:15pt;
+	margin-right:2vw;
+}
+
