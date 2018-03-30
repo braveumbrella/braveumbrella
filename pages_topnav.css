@@ -310,7 +310,8 @@ nav{
 	border-radius: 8px;
 	border: 2px solid rgb(146,16,28);
 	float: right;
-	margin:10px;
+	margin-top:1vw;
+	margin-right:10vw;
 }
 
 .button:hover{
