@@ -310,12 +310,14 @@ nav{
 	float: right;
 	font-family: 'Cardo';
 	font-color:rgb(155,155,155);
+	text-decoration-none;
 }
 
 .button:hover{
         background-color:rgba(146,16,28,0.5);
 	border-radius: 8px;
 	border: 2px solid rgb(146,16,28);
+	text-decoration-none;
 }
 
 }
