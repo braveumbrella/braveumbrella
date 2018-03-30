@@ -312,6 +312,7 @@ nav{
 	float: right;
 	margin-top:1vw;
 	margin-right:10vw;
+	padding:2px;
 }
 
 .button:hover{
