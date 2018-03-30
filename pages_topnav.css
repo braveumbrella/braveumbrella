@@ -308,6 +308,8 @@ nav{
 	border-radius: 8px;
 	border: 2px solid rgb(146,16,28);
 	float: right;
+	font-family: 'Cardo';
+	font-color:rgb(155,155,155);
 }
 
 .button:hover{
@@ -316,11 +318,6 @@ nav{
 	border: 2px solid rgb(146,16,28);
 }
 
-.button a{
-	font-size:15pt;
-	margin:0;
-	color:rgb(137,125,114);	
-	text-decoration:none;
 }
 
 @media screen and (min-width: 600px) {
