@@ -303,7 +303,7 @@ nav{
 	width:20vw;
 }
 
-.btext{text-decoration-none; color:rgb(155,155,155);}
+.button .btext{text-decoration-none; color:rgb(155,155,155);}
 
 .button{
         background-color:rgb(146,16,28);
