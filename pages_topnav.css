@@ -326,9 +326,6 @@ nav{
         background-color:rgb(146,16,28);
 	border-radius: 8px;
 	border: 2px solid rgb(146,16,28);
-	float: left;
-	padding:2px;
-	font-size:20px;
 }
 
 .dbutton:hover{
