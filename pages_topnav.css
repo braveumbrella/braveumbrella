@@ -217,6 +217,12 @@ nav{
   color:rgb(146,16,28);
 }
 
+@media screen and (min-width:600px) {
+	.tickets{
+	margin-left:10vw;
+	}
+}
+
 .topnav .icon {
   display: none;
 }
