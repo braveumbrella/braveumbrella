@@ -212,6 +212,11 @@ nav{
   color: white;
 }
 
+.tickets {
+  background-color: black;
+  color:rgb(146,16,28);
+}
+
 .topnav .icon {
   display: none;
 }
