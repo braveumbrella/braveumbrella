@@ -21,6 +21,7 @@ body{
 
 .col-lg-9 strong{
 	color:rgba(255,255,255,0.5);
+	margin: 2px;
 }
 
 .col-lg-9 li{
