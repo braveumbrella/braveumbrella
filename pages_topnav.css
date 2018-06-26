@@ -292,6 +292,11 @@ nav{
 	color:rgba(255,255,255,0.5);
 	text-decoration:none;
 }
+
+.text strong{
+	font-weight:900;
+}
+
 .headshots{
 	width:20%;
 	height:auto;
