@@ -201,6 +201,13 @@ body{
 	padding:0 0 10px 0;
 }
 
+.news_image{
+	width:20vw;
+	height:auto;
+	margin-right:auto;
+	margin-left:auto;
+}
+
 /*nav*/
 
 nav{
@@ -291,3 +298,5 @@ nav{
 	font-size:15pt;
 	margin-right:2vw;
 }
+
+
